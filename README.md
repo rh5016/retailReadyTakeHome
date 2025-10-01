@@ -28,16 +28,3 @@ This function analyzes a complete weekly shipment for a one destination. It calc
 
 -   **Input:** A list of all cartons in the shipment.
 -   **Output:** An instruction.
-
-## How to Run the Project
-
-1.  Clone the repository: `git clone ...`
-2.  Install dependencies: `npm install` (or `pip install -r requirements.txt`)
-3.  Run the main application: `node index.js` (or `python main.py`)
-4.  (Optional) Run tests: `npm test` (or `pytest`)
-
-## Future Work
-
-* **Expand the Rule Set:** Incorporate logic for other product categories and shipping rules (e.g., carton labeling, palletization).
-* **API-first Design:** Expose the logic via a simple REST API for easy integration with other warehouse management systems.
-* **AI-Powered Parsing:** Develop a module to automatically parse updated routing guide PDFs, identify rule changes, and suggest updates to the logic engine, making the system more scalable and maintainable.
