@@ -28,3 +28,17 @@ This function analyzes a complete weekly shipment for a one destination. It calc
 
 -   **Input:** A list of all cartons in the shipment.
 -   **Output:** An instruction.
+
+## How to Run
+
+Clone the repository and navigate into the project folder.
+
+Run the application from your terminal.
+
+```bash
+python app.py
+```
+The compliance steps will be printed directly to your console.
+
+```
+```
