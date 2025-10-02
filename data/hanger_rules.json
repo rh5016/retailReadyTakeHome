@@ -1,0 +1,25 @@
+{
+  "hanger_map": {
+    "Tops": {"MENS": 484, "WOMENS": 484, "YOUTH": 485, "TODDLER": 498, "MENS EXTENDED": 479},
+    "Sports Bras": {"MENS": 498, "WOMENS": 498, "YOUTH": null, "TODDLER": null, "MENS EXTENDED": null},
+    "Bottoms": {"MENS": 6012, "WOMENS": 6010, "YOUTH": 6010, "TODDLER": 6008, "MENS EXTENDED": 6014},
+    "Fleece Tops": {"MENS": 3328, "WOMENS": 3328, "YOUTH": 3315, "TODDLER": 3315, "MENS EXTENDED": 3319},
+    "Fleece Bottoms": {"MENS": 6012, "WOMENS": 6010, "YOUTH": 6010, "TODDLER": 6008, "MENS EXTENDED": 6014},
+    "Hunting Pants": {"MENS": 7012, "WOMENS": 7010, "YOUTH": 7010, "TODDLER": null, "MENS EXTENDED": 7014},
+    "Swim Tops (bikini)": {"MENS": null, "WOMENS": 6010, "YOUTH": 6010, "TODDLER": null, "MENS EXTENDED": null},
+    "Swim Tops (tankini)": {"MENS": null, "WOMENS": 6010, "YOUTH": 6010, "TODDLER": null, "MENS EXTENDED": null},
+    "Life Jackets": {"MENS": 484, "WOMENS": 484, "YOUTH": 485, "TODDLER": null, "MENS EXTENDED": null}
+  },
+  "exceptions": {
+    "open_presentation": [
+      "Youth Baseball Pant", "Football Girdles", "Skorts/Skirts", 
+      "Hunting Pants", "Ski Pants", "Underwear/Bikini bottoms"
+    ],
+    "no_sizer": ["Life Jackets"],
+    "special_notes": {
+      "Life Jackets": "Hangers can be placed in carton instead of on garment.",
+      "Swim Tops (bikini)": "Hang upside down.",
+      "Swim Tops (tankini)": "Hang upside down."
+    }
+  }
+}
